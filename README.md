@@ -45,6 +45,7 @@ Crie um arquivo .env na raiz do projeto com as variáveis:
 ```bash
 AZURE_ENDPOINT=https://seu-endpoint.openai.azure.com/
 AZURE_API_KEY=sua-chave-da-api
+```
 
 ---
 
@@ -52,6 +53,4 @@ AZURE_API_KEY=sua-chave-da-api
 
 ```bash
 python .\main.py
-
-
----
+```
